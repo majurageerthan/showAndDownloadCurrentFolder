@@ -8,5 +8,6 @@ Steps to start server,
 3. go to the showAndDownloadCurrentFolder folder and paste the contents you want to share from your pc
 4. `npm install`
 5. `node index`
+6. Share the link, which shown in the console with others, who want the files which you have shared
 
 done
